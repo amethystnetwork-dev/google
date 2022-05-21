@@ -1,5 +1,5 @@
 const cookies = navigator.cookieEnabled ? parseCookies(document.cookie) : new Map();
-const appearance = cookies.get('appearance') || 'midnight';
+const appearance = cookies.get('appearance') || 'morning';
 const xor = {
     encode(str){
         if (!str) return str;
@@ -82,7 +82,7 @@ function settings() {
         document.querySelectorAll('.appearance .options li').forEach(node => 
             node.addEventListener('click', () => {
                 lastSelected.removeAttribute('data-selected');
-                document.appearance = node.getAttribute('data-appearance') || 'midnight';
+                document.appearance = node.getAttribute('data-appearance') || 'morning';
                 node.setAttribute('data-selected', '')
                 lastSelected = node;
                 document.cookie = `appearance=${document.appearance}`;
