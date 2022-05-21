@@ -50,11 +50,6 @@
         "title": "Doodle Jump"
     },
     {
-        "image": "drift-hunters.jpg",
-        "location": "./src/gs/public/drift/",
-        "title": "Drift Hunters"
-    },
-    {
         "image": "fireboy-and-watergirl-forest-temple.jpg",
         "location": "./src/gs/public/fireboy-and-watergirl-forest-temple/",
         "title": "Fireboy & Watergirl Into the Forest Temple"
@@ -98,11 +93,6 @@
         "image": "portal2d.jpg",
         "location": "./src/gs/public/swfs/#portal2d",
         "title": "Portal 2D"
-    },
-    {
-        "image": "radiusraid.jpg",
-        "location": "./src/gs/public/radius-raid/",
-        "title": "Radius Raid"
     },
     {
         "image": "retro-bowl.jpg",
