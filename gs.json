@@ -100,11 +100,6 @@
         "title": "Retro Bowl"
     },
     {
-        "image": "sm64.jpg",
-        "location": "./src/gs/public/sm64/",
-        "title": "Super Mario 64"
-    },
-    {
         "image": "spaceinvaders.jpg",
         "location": "./src/gs/public/spaceinvaders/",
         "title": "Space Invaders"
