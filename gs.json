@@ -5,11 +5,6 @@
         "title": "1 on 1 Soccer"
     },
     {
-        "image": "1v1-lol.jpg",
-        "location": "./gateway?url=MXYxLmxvbA%3D%3D",
-        "title": "1v1.LOL"
-    },
-    {
         "image": "2048.jpg",
         "location": "./src/gs/public/2048/",
         "title": "2048"
@@ -60,26 +55,6 @@
         "title": "Drift Hunters"
     },
     {
-        "image": "ducklife.jpg",
-        "location": "./src/gs/public/ducklife/",
-        "title": "Duck Life"
-    },
-    {
-        "image": "ducklife2.jpg",
-        "location": "./src/gs/public/ducklife2/",
-        "title": "Duck Life 2"
-    },
-    {
-        "image": "ducklife3.jpg",
-        "location": "./src/gs/public/ducklife3/",
-        "title": "Duck Life 3: Evolution"
-    },
-    {
-        "image": "ducklife4.jpg",
-        "location": "./src/gs/public/ducklife4/",
-        "title": "Duck Life 4"
-    },
-    {
         "image": "fireboy-and-watergirl-forest-temple.jpg",
         "location": "./src/gs/public/fireboy-and-watergirl-forest-temple/",
         "title": "Fireboy & Watergirl Into the Forest Temple"
@@ -110,16 +85,6 @@
         "title": "HexGL"
     },
     {
-        "image": "justfall-lol.jpg",
-        "location": "./gateway?url=anVzdGZhbGwubG9s",
-        "title": "Justfall.LOL"
-    },
-    {
-        "image": "littlebigsnake.jpg",
-        "location": "./gateway?url=bGl0dGxlYmlnc25ha2UuY29t",
-        "title": "LittleBigSnake"
-    },
-    {
         "image": "minecraft.jpg",
         "location": "./src/gs/public/mc-classic/",
         "title": "Minecraft Classic"
@@ -128,11 +93,6 @@
         "image": "pacman.jpg",
         "location": "./src/gs/public/pacman/",
         "title": "Pac Man"
-    },
-    {
-        "image": "paper-io.jpg",
-        "location": "./gateway?url=cGFwZXItaW8uY29t",
-        "title": "Paper.io"
     },
     {
         "image": "portal2d.jpg",
@@ -148,21 +108,6 @@
         "image": "retro-bowl.jpg",
         "location": "./src/gs/public/retro-bowl/",
         "title": "Retro Bowl"
-    },
-    {
-        "image": "ritz.jpg",
-        "location": "./src/gs/public/ritz/",
-        "title": "Ritz"
-    },
-    {
-        "image": "run3.jpg",
-        "location": "./src/gs/public/run3/",
-        "title": "Run 3"
-    },
-    {
-        "image": "slope.jpg",
-        "location": "./src/gs/public/slope/",
-        "title": "Slope"
     },
     {
         "image": "sm64.jpg",
@@ -198,10 +143,5 @@
         "image": "warfare1944.jpg",
         "location": "./src/gs/public/swfs/#warfare1944",
         "title": "Warfare 1944"
-    },
-    {
-        "image": "zombsroyale.jpg",
-        "location": "./gateway?url=em9tYnNyb3lhbGUuaW8%3D",
-        "title": "ZombsRoyale.io"
     }
 ]
